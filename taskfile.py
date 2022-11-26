@@ -10,5 +10,3 @@ def factorial(n):
             n -= 1
         return toReturn
 print(factorial(5))
-
-[THIS IS MY GITHUB REPO LINK](https://github.com/DreadSoul1705/ecPycharm.git)
